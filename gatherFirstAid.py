@@ -1,4 +1,4 @@
-
+import traceback
 
 def gather_first_aid(split_file, lower_file):
     #Finding first aid section of SDS
@@ -9,7 +9,12 @@ def gather_first_aid(split_file, lower_file):
             end_index = lower_file.index(i)
             
     #Full first aid section
-    first_aid = lower_file[start_index:end_index]
+    try:
+        first_aid = lower_file[start_index:end_index]
+    except UnboundLocalError as err:
+        print("Could not find the first aid mesures section of the SDS. Ignoring this section. Error: \n")
+        traceback.print_exc()
+        return
     
     inhalation = ''
     skin_contact = ''

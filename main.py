@@ -1,3 +1,4 @@
+import traceback
 from gatherBasicInfo import gather_basic_data
 from gatherHazards import gather_hazard_info
 from gatherHandlingInfo import gather_handling
@@ -5,7 +6,7 @@ from gatherFirstAid import gather_first_aid
 from gatherIncompat import gather_incompatablities
 from gatherPPE import gatherPPE
 
-filename = './spraywell.txt'
+filename = './SDS-txt-files/spraywell.txt'
 
 def extract_file(filename):
     #Opens and manipulates the file
@@ -19,13 +20,14 @@ def extract_file(filename):
     
 
 #Begins the data gathering, calls all other functions
-def gather_all_info(files):
-    split_file = files[0]
-    lower_file = files[1]
+def gather_all_info(split_file, lower_file):
     basic_data = gather_basic_data([split_file, lower_file])
     hazards = gather_hazard_info([split_file, lower_file])
     handling = gather_handling(split_file, lower_file)
-    hazard_data = [hazards[0], hazards[1], hazards[2],hazards[3],hazards[4]]
+    try:
+        hazard_data = [hazards[0], hazards[1], hazards[2],hazards[3],hazards[4]]
+    except TypeError:
+        print("An error occured while combining hazard data. It is likley that the SDS is not compatable with SDS Stripper or the hazard category does not exit")
     first_aid_data = gather_first_aid(split_file, lower_file)
     incompat_data = gather_incompatablities(split_file, lower_file)
     ppe = gatherPPE(split_file, lower_file)
@@ -50,7 +52,13 @@ def write_to_file(hazard_data, basic_data, handling, first_aid, incompat_data, p
     
     with open('./PPE.txt', 'w') as ppefile:
         ppefile.write(ppe)
-            
-            
+                     
 file_data = extract_file(filename)
-gather_all_info(file_data)
+
+try:
+    gather_all_info(file_data[0], file_data[1])
+except TypeError as type_err:
+    traceback.print_exc()
+    print(type_err.args)
+    print('An error occured while gathering data. This may be because the SDS syntax is not compatable with this script. Error: ', type_err)
+

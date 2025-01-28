@@ -58,23 +58,34 @@ def gather_hazard_info(files):
                 print('Found category: ' +category)
                 return lower_file.index(i)
             
-        print("Error in 'gather_hazard_info': cannot find category")
+        return ''
         
         #Finding the hazard statements in the file
 
     #Finds each category index
-    hazard_index = find_category("hazard statement")
-    prevention_index = find_category('prevention precautionary statements')
-    response_index = find_category('response precautionary statements')
-    storage_index = find_category('storage precautionary statements')
-    disposal_index = find_category('disposal precautionary statement')
-    goods_index = find_category('dangerous good classification')
-    #Using the indexes to split the string to gather the data contained in the category
-    hazards = split_file[hazard_index + 1: prevention_index]
-    prevention = split_file[prevention_index + 1: response_index]
-    response = split_file[response_index + 1: storage_index]
-    storage = split_file[storage_index + 1: disposal_index]
-    disposal = split_file[disposal_index: goods_index]
+
+    try:
+        hazard_index = find_category("hazard statement")
+        prevention_index = find_category('prevention precautionary statements')
+        response_index = find_category('response precautionary statements')
+        storage_index = find_category('storage precautionary statements')
+        disposal_index = find_category('disposal precautionary statement')
+        goods_index = find_category('dangerous good classification')
+    except TypeError as err:
+        print(err.args)
+        raise NameError('Cannot find hazard categories. This SDS may not be compatable with SDS Stripper or the hazard section may not exist.')
+        return 'ERROR'
+
+    try:
+        #Using the indexes to split the string to gather the data contained in the category
+        hazards = split_file[hazard_index + 1: prevention_index]
+        prevention = split_file[prevention_index + 1: response_index]
+        response = split_file[response_index + 1: storage_index]
+        storage = split_file[storage_index + 1: disposal_index]
+        disposal = split_file[disposal_index: goods_index]
+    except:
+        print("An error occured while gathering hazard classifications, no hazard classifications will be present once the script is complete.")
+        return 'ERROR'
     #Stripping sentances
     hazards = strip_items(hazards)
     prevention = strip_items(prevention)
