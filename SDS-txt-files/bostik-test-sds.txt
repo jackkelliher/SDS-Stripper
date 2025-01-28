@@ -1,0 +1,674 @@
+____________________________________________________________________________________
+SAFETY DATA SHEET
+This safety data sheet was created pursuant to the requirements of: Regulation (EC)
+No. 1907/2006 and Regulation (EC) No. 1272/2008
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1. Product identifier
+Product Name BOSTIK STIX A300 MULTI FLOOR
+Pure substance/mixture Mixture
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+Recommended use Adhesive.
+Uses advised against None known
+1.3. Details of the supplier of the safety data sheet
+E-mail address SDS.box-EU@bostik.com
+1.4. Emergency telephone number
+United Kingdom +44 (1785) 272650
+Ireland +353 (1) 8624900 (Monday- Friday 9am-5pm)
+SECTION 2: Hazards identification
+2.1. Classification of the substance or mixture
+Regulation (EC) No 1272/2008
+Chronic aquatic toxicity Category 3 - (H412)
+2.2. Label elements
+Signal word
+None
+Hazard statements
+H412 - Harmful to aquatic life with long lasting effects.
+EU Specific Hazard Statements
+EUH208 - Contains reaction mass of 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1)
+[C(M)IT/MIT] & 1,2-benzisothiazol-3(2H)-one [BIT]. May produce an allergic reaction
+Precautionary Statements - EU (§28, 1272/2008)
+P102 - Keep out of reach of children
+P101 - If medical advice is needed, have product container or label at hand
+P273 - Avoid release to the environment
+P501 - Dispose of contents/ container to an approved waste disposal plant
+2.3. Other hazards
+Toxic to aquatic life.
+PBT & vPvB
+This mixture contains no substance considered to be persistent, bioaccumulating or toxic (PBT). This mixture contains no
+Company Name
+Bostik Limited
+Common Rd
+ST16 3EH
+Stafford UK
+Tel: +44 (1785) 27 26 25
+Fax: +44 (1785) 25 72 36
+United Kingdom - BE Page 1 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+substance considered to be very persistent nor very bioaccumulating (vPvB).
+SECTION 3: Composition/information on ingredients
+3.1 Substances
+Not applicable
+3.2 Mixtures
+Chemical name EC No CAS No Weight-% Classification
+according to
+Regulation (EC)
+No. 1272/2008
+[CLP]
+Specific
+concentration limit
+(SCL)
+REACH
+registration
+number
+Dodecanoic acid,
+monoester with
+1,2-propanediol
+248-315-4 27194-74-7 0.1 - <1 Aquatic Acute 1
+(H400)
+Aquatic Chronic
+1 (H410)
+(M Factor Acute
+= 10)
+01-2120767955-
+35-xxxx
+Quartz 238-878-4 14808-60-7 0.1 - <1 ^ [4]
+Diethanolamine 203-868-0 111-42-2 0.1 - <1 Acute Tox. 4
+(H302)
+Skin Irrit. 2
+(H315)
+Eye Dam. 1
+(H318)
+STOT RE 2
+(H373)
+Repr. 2 (H361fd)
+Aquatic Chronic
+3 (H412)
+01-2119488930-
+28-XXXX
+1,2-benzisothiazol-3(2H)
+-one [BIT]
+220-120-9 2634-33-5 0.01 - <0.05 Acute Tox. 4
+(H302)
+Skin Irrit. 2
+(H315)
+Eye Dam. 1
+(H318)
+Skin Sens. 1
+(H317)
+Aquatic Acute 1
+(H400)
+Acute Tox. 2
+(H330)
+Aquatic Chronic
+2 (H411)
+M Factor Acute
+=1
+Skin Sens. 1 ::
+C>=0.05%
+01-2120761540-
+60-XXXX
+reaction mass of
+5-chloro-2-methyl-2H-iso
+thiazol-3-one and
+2-methyl-2H-isothiazol-3
+-one (3:1) [C(M)IT/MIT]
+611-341-5 55965-84-9 <0.0015 Acute Tox. 3
+(H301)
+Acute Tox. 2
+(H310)
+Acute Tox. 2
+(H330)
+Skin Corr. 1C
+(H314)
+Eye Dam. 1
+(H318)
+Skin Sens. 1A
+(H317)
+Eye Dam. 1 ::
+C>=0.6% Irrit. 2 ::
+0.06%<=C<0.6%
+Skin Corr. 1C ::
+C>=0.6%
+Skin Irrit. 2 ::
+0.06%<=C<0.6%
+Skin Sens. 1 ::
+C>=0.0015%
+01-2120764691-
+48-XXXX
+United Kingdom - BE Page 2 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+Aquatic Acute 1
+(H400)
+Aquatic Chronic
+1 (H410)
+M Factor Acute =
+100
+M Factor Chronic
+= 100
+NOTE [4] - This substance is exempted from registration according to the provisions of Article 2(7)(a) and Annex IV of REACH
+NOTE [5] - This substance is exempted from registration according to the provisions of Article 2(7)(a) and Annex V of REACH
+Full text of H- and EUH-phrases: see section 16
+This product does not contain candidate substances of very high concern at a concentration >=0.1% (Regulation (EC) No.
+1907/2006 (REACH), Article 59)
+SECTION 4: First aid measures
+4.1. Description of first aid measures
+General advice If medical advice is needed, have product container or label at hand. Show this safety
+data sheet to the doctor in attendance.
+Inhalation Remove to fresh air. IF exposed or concerned: Get medical advice/attention.
+Eye contact Rinse thoroughly with plenty of water for at least 15 minutes, lifting lower and upper
+eyelids. Consult a doctor.
+Skin contact Wash skin with soap and water. In the case of skin irritation or allergic reactions see a
+doctor.
+Ingestion Clean mouth with water. Do NOT induce vomiting. Drink 1 or 2 glasses of water. Never
+give anything by mouth to an unconscious person.
+4.2. Most important symptoms and effects, both acute and delayed
+Symptoms No information available.
+4.3. Indication of any immediate medical attention and special treatment needed
+Note to doctors Treat symptomatically.
+SECTION 5: Firefighting measures
+5.1. Extinguishing media
+Suitable Extinguishing Media Use extinguishing measures that are appropriate to local circumstances and the
+surrounding environment.
+Unsuitable extinguishing media No information available.
+5.2. Special hazards arising from the substance or mixture
+Specific hazards arising from the
+chemical
+No information available.
+Hazardous combustion products Carbon dioxide (CO2). Nitrogen oxides (NOx).
+United Kingdom - BE Page 3 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+5.3. Advice for firefighters
+Special protective equipment and
+precautions for fire-fighters
+Firefighters should wear self-contained breathing apparatus and full firefighting turnout
+gear. Use personal protection equipment.
+SECTION 6: Accidental release measures
+6.1. Personal precautions, protective equipment and emergency procedures
+Personal precautions Ensure adequate ventilation.
+For emergency responders Use personal protection recommended in Section 8.
+6.2. Environmental precautions
+Environmental precautions See Section 12 for additional Ecological Information.
+6.3. Methods and material for containment and cleaning up
+Methods for containment Prevent further leakage or spillage if safe to do so.
+Methods for cleaning up Take up mechanically, placing in appropriate containers for disposal.
+Prevention of secondary hazards Clean contaminated objects and areas thoroughly observing environmental regulations.
+6.4. Reference to other sections
+Reference to other sections See section 8 for more information. See section 13 for more information.
+SECTION 7: Handling and storage
+7.1. Precautions for safe handling
+Advice on safe handling Ensure adequate ventilation.
+General hygiene considerations Handle in accordance with good industrial hygiene and safety practice.
+7.2. Conditions for safe storage, including any incompatibilities
+Storage Conditions Keep container tightly closed in a dry and well-ventilated place.
+Recommended storage
+temperature
+Keep at temperatures between 5 and 35 °C. Keep at temperatures between 2 and 10 °C.
+7.3. Specific end use(s)
+Specific use(s)
+Adhesive.
+Risk Management Methods (RMM) The information required is contained in this Safety Data Sheet.
+Other information Observe technical data sheet.
+SECTION 8: Exposure controls/personal protection
+8.1. Control parameters
+Exposure Limits
+Chemical name European Union United Kingdom
+Limestone
+1317-65-3
+- TWA: 10 mg/m3
+TWA: 4 mg/m3
+STEL: 30 mg/m3
+United Kingdom - BE Page 4 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+STEL: 12 mg/m3
+Quartz
+14808-60-7
+TWA: 0.1 mg/m3 TWA: 0.1 mg/m3
+Derived No Effect Level (DNEL) No information available
+Derived No Effect Level (DNEL)
+Quartz (14808-60-7)
+1,2-benzisothiazol-3(2H)-one [BIT] (2634-33-5)
+Type Exposure route Derived No Effect Level
+(DNEL)
+Safety factor
+worker
+Long term
+Systemic health effects
+Inhalation 6.81 mg/m³
+worker
+Long term
+Systemic health effects
+Dermal 0.966 mg/kg bw/d
+Derived No Effect Level (DNEL)
+1,2-benzisothiazol-3(2H)-one [BIT] (2634-33-5)
+Type Exposure route Derived No Effect Level
+(DNEL)
+Safety factor
+Consumer
+Long term
+Systemic health effects
+Inhalation 1.2 mg/m³
+Consumer
+Long term
+Systemic health effects
+Dermal 0.345 mg/kg bw/d
+Predicted No Effect Concentration
+(PNEC)
+No information available.
+Predicted No Effect Concentration (PNEC)
+1,2-benzisothiazol-3(2H)-one [BIT] (2634-33-5)
+Environmental compartment Predicted No Effect Concentration (PNEC)
+Freshwater 4.03 μg/l
+Marine water 0.403 μg/l
+Sewage treatment plant 1.03 mg/l
+Freshwater sediment 49.9 μg/l
+Marine sediment 4.99 μg/l
+Soil 3 mg/kg dry weight
+8.2. Exposure controls
+Engineering controls Ensure adequate ventilation, especially in confined areas.
+Personal protective equipment
+Eye/face protection Wear safety glasses with side shields (or goggles). Avoid contact with eyes.
+Skin and body protection Wear protective gloves and protective clothing. Avoid contact with skin, eyes or clothing.
+Respiratory protection During spraying wear suitable respiratory equipment.
+Environmental exposure controls Local authorities should be advised if significant spillages cannot be contained. Do not
+allow into any sewer, on the ground or into any body of water. Prevent product from
+entering drains.
+SECTION 9: Physical and chemical properties
+9.1. Information on basic physical and chemical properties
+United Kingdom - BE Page 5 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+Physical state Liquid
+Appearance Viscous
+Colour Off-white
+Odour Slight
+Odour threshold No information available
+Explosive properties No data available
+Oxidising properties No data available
+9.2. Other information
+Solid content (%) 77.25
+Density 1.27 - 1.37 g/cm³
+SECTION 10: Stability and reactivity
+10.1. Reactivity
+Reactivity No information available.
+10.2. Chemical stability
+Stability Stable under normal conditions.
+Explosion data
+Sensitivity to mechanical
+impact
+None.
+Sensitivity to static discharge None.
+10.3. Possibility of hazardous reactions
+Possibility of hazardous reactions None under normal processing.
+10.4. Conditions to avoid
+Property Values Remarks • Method
+pH 7.8 - 8.8
+pH (as aqueous solution) No data available
+Melting point / freezing point 0 °C
+Initial boiling point and boiling
+range
+No data available
+Flash point > 100 °C
+Evaporation rate No data available
+Flammability Not applicable for liquids .
+Flammability Limit in Air
+Upper flammability or explosive
+limits
+No data available
+Lower flammability or explosive
+limits
+No data available
+Vapour pressure No data available
+Relative vapour density No data available
+Relative density No data available
+Water solubility Miscible in water
+Solubility(ies) No data available
+Partition coefficient No data available
+Autoignition temperature No data available
+Decomposition temperature No data available
+Kinematic viscosity No data available
+Dynamic viscosity 36000 - 44000 mPa s Spindle A6 @ 20 rpm @ 23 °C
+VOC Content (%)
+United Kingdom - BE Page 6 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+Conditions to avoid None known based on information supplied.
+10.5. Incompatible materials
+Incompatible materials None known based on information supplied.
+10.6. Hazardous decomposition products
+Hazardous decomposition
+products
+Carbon monoxide. Carbon dioxide (CO2). Hydrocarbons.
+SECTION 11: Toxicological information
+11.1. Information on toxicological effects
+Information on likely routes of exposure
+Product Information .
+Inhalation Based on available data, the classification criteria are not met.
+Eye contact Based on available data, the classification criteria are not met.
+Skin contact Based on available data, the classification criteria are not met.
+Ingestion Based on available data, the classification criteria are not met.
+Symptoms related to the physical, chemical and toxicological characteristics
+Symptoms No information available.
+Numerical measures of toxicity
+Acute toxicity
+The following values are calculated based on chapter 3.1 of the GHS document
+ATEmix (dermal) 14,292.90 mg/kg
+Component Information
+Chemical name Oral LD50 Dermal LD50 Inhalation LC50
+Dodecanoic acid, monoester
+with 1,2-propanediol
+27194-74-7
+>2000 mg/Kg (rattus) = 2000 mg/kg ( Rat )
+Quartz
+14808-60-7
+>2000 mg/kg (Rattus)
+Diethanolamine
+111-42-2
+LD50 = 1600 mg/kg (Rattus)
+OECD 401
+= 8380 mg/kg (Oryctolagus
+cuniculus)
+1,2-benzisothiazol-3(2H)-one
+[BIT]
+2634-33-5
+=670 mg/kg (Rattus) LD50 > 2000 mg/kg (Rattus)
+reaction mass of
+5-chloro-2-methyl-2H-isothiazo
+l-3-one and
+2-methyl-2H-isothiazol-3-one
+(3:1) [C(M)IT/MIT]
+55965-84-9
+=53 mg/kg (Rattus) LD50 = 87.12 mg/kg
+(Oryctolagus cuniculus)
+Delayed and immediate effects as well as chronic effects from short and long-term exposure
+United Kingdom - BE Page 7 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+Skin corrosion/irritation Based on available data, the classification criteria are not met.
+Serious eye damage/eye irritation Based on available data, the classification criteria are not met.
+Respiratory or skin sensitisation Based on available data, the classification criteria are not met.
+Germ cell mutagenicity Based on available data, the classification criteria are not met.
+Carcinogenicity Based on available data, the classification criteria are not met.
+Reproductive toxicity Based on available data, the classification criteria are not met.
+STOT - single exposure Based on available data, the classification criteria are not met.
+STOT - repeated exposure Based on available data, the classification criteria are not met.
+Aspiration hazard Based on available data, the classification criteria are not met.
+11.2. Information on other hazards
+11.2.1. Endocrine disrupting properties
+Endocrine disrupting properties No information available.
+11.2.2. Other information
+Other adverse effects No information available.
+SECTION 12: Ecological information
+12.1. Toxicity
+Ecotoxicity Toxic to aquatic life. Harmful to aquatic life with long lasting effects.
+Chemical name Algae/aquatic
+plants
+Fish Toxicity to
+microorganisms
+Crustacea M-Factor M-Factor
+(long-term)
+Dodecanoic acid,
+monoester with
+1,2-propanediol
+27194-74-7
+EC50: 0.068
+mg/l
+Pseudokirchneri
+ella subcapitata
+LC50 >3.1 mg/l :
+OECD 203
+- EC50 0.6 mg/l
+(daphnia
+magna) OECD
+202
+10
+Diethanolamine
+111-42-2
+EC50 (72) >=
+2.7 - 19 mg/l
+(Pseudokirchner
+iella
+subcapitata)
+LC50 (96h) =
+460 mg/l
+(Oncorhynchus
+mykiss)
+- EC50 48 h =
+30.1 mg/L
+(Daphnia magna
+)
+1,2-benzisothiazol-3(2
+H)-one [BIT]
+2634-33-5
+EC50 3Hr
+13mg/l
+(activated
+sludge) (OECD
+209)
+LC50 (96hr)
+2.15 mg/l
+Cyprinodon
+variegatus EPA
+540/9-85-006
+- EC50(48hr) 2.94
+mg/l (Daphnia
+Magna) OECD
+202
+1
+United Kingdom - BE Page 8 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+reaction mass of
+5-chloro-2-methyl-2H-is
+othiazol-3-one and
+2-methyl-2H-isothiazol-
+3-one (3:1)
+[C(M)IT/MIT]
+55965-84-9
+EC50 (72h)
+=0.048 mg/L
+(Pseudokirchner
+iella
+subcapitata)
+(OECD 201)
+EC50 (96h) =
+0.22 mg/L
+(Oncorhynchus
+mykiss) (OECD
+211)
+- EC50 (48h) =0.1
+mg/L (Daphnia
+magna) (OECD
+202)
+100 100
+12.2. Persistence and degradability
+Persistence and degradability No information available.
+Component Information
+reaction mass of 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1) [C(M)IT/MIT]
+(55965-84-9)
+Method Exposure time Value Results
+OECD Test No. 301B: Ready
+Biodegradability: CO2 Evolution
+Test (TG 301 B)
+28 days biodegradation Not readily biodegradable
+12.3. Bioaccumulative potential
+Bioaccumulation There is no data for this product.
+Component Information
+Chemical name Partition coefficient Bioconcentration factor (BCF)
+Dodecanoic acid, monoester with
+1,2-propanediol
+27194-74-7
+1.9 -
+Quartz
+14808-60-7
+- 0
+Diethanolamine
+111-42-2
+-2.18 9.2
+1,2-benzisothiazol-3(2H)-one [BIT]
+2634-33-5
+0.7 6.95
+reaction mass of
+5-chloro-2-methyl-2H-isothiazol-3-one and
+2-methyl-2H-isothiazol-3-one (3:1)
+[C(M)IT/MIT]
+55965-84-9
+- 3.16
+12.4. Mobility in soil
+Mobility in soil No information available.
+12.5. Results of PBT and vPvB assessment
+PBT and vPvB assessment The product does not contain any substance(s) classified as PBT or vPvB.
+Chemical name PBT and vPvB assessment
+Dodecanoic acid, monoester with 1,2-propanediol
+27194-74-7
+The substance is not PBT / vPvB
+Diethanolamine
+111-42-2
+The substance is not PBT / vPvB
+1,2-benzisothiazol-3(2H)-one [BIT]
+2634-33-5
+The substance is not PBT / vPvB
+reaction mass of 5-chloro-2-methyl-2H-isothiazol-3-one and
+2-methyl-2H-isothiazol-3-one (3:1) [C(M)IT/MIT]
+55965-84-9
+The substance is not PBT / vPvB
+United Kingdom - BE Page 9 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+12.6. Other adverse effects
+Other adverse effects No information available.
+SECTION 13: Disposal considerations
+13.1. Waste treatment methods
+Waste from residues/unused
+products
+Dispose of in accordance with local regulations. Dispose of waste in accordance with
+environmental legislation.
+Contaminated packaging Do not reuse empty containers.
+European Waste Catalogue 08 04 10 waste adhesives and sealants other than those mentioned in 08 04 09
+Other information Waste codes should be assigned by the user based on the application for which the
+product was used.
+SECTION 14: Transport information
+Land transport (ADR/RID)
+14.1 UN number or ID number Not regulated
+14.2 Proper Shipping Name Not regulated
+14.3 Transport hazard class(es) Not regulated
+14.4 Packing group Not regulated
+14.5 Environmental hazards Not applicable
+14.6 Special Provisions None
+IMDG
+14.1 UN number or ID number Not regulated
+14.2 Proper Shipping Name Not regulated
+14.3 Transport hazard class(es) Not regulated
+14.4 Packing group Not regulated
+14.5 Marine pollutant NP
+14.6 Special Provisions None
+14.7 Transport in bulk according to Annex II of MARPOL and the IBC Code Not applicable
+Air transport (ICAO-TI / IATA-DGR)
+14.1 UN number or ID number Not regulated
+14.2 Proper Shipping Name Not regulated
+14.3 Transport hazard class(es) Not regulated
+14.4 Packing group Not regulated
+14.5 Environmental hazards Not applicable
+14.6 Special Provisions None
+Section 15: REGULATORY INFORMATION
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+European Union
+Take note of Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents
+at work
+United Kingdom - BE Page 10 / 12
+Check whether measures in accordance with Directive 94/33/EC for the protection of young people at work must be taken.
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+Take note of Directive 92/85/EC on the protection of pregnant and breastfeeding women at work
+Registration, Evaluation, Authorization, and Restriction of Chemicals (REACh) Regulation (EC 1907/2006)
+SVHC: Substances of Very High Concern for Authorisation:
+This product does not contain candidate substances of very high concern at a concentration >=0.1% (Regulation (EC) No.
+1907/2006 (REACH), Article 59)
+EU-REACH (1907/2006) - Annex XVII - Substances subject to Restriction
+This product does not contain substances subject to restriction (Regulation (EC) No. 1907/2006 (REACH), Annex XVII).
+Substance subject to authorisation per REACH Annex XIV
+This product does not contain substances subject to authorisation (Regulation (EC) No. 1907/2006 (REACH), Annex XIV)
+Biocidal Products Regulation (EU) No 528/2012 (BPR)
+Contains a biocide : Contains C(M)IT/MIT (3:1). May produce an allergic reaction
+Ozone-depleting substances (ODS) regulation (EC) 1005/2009
+Not applicable
+Persistent Organic Pollutants
+Not applicable
+National regulations
+15.2. Chemical safety assessment
+Exposure scenario
+SECTION 16: Other information
+Key or legend to abbreviations and acronyms used in the safety data sheet
+Full text of H-Statements referred to under section 3
+H301 - Toxic if swallowed
+H302 - Harmful if swallowed
+H310 - Fatal in contact with skin
+H314 - Causes severe skin burns and eye damage
+H315 - Causes skin irritation
+H317 - May cause an allergic skin reaction
+H318 - Causes serious eye damage
+H330 - Fatal if inhaled
+H361fd - Suspected of damaging fertility. Suspected of damaging the unborn child
+H373 - May cause damage to organs through prolonged or repeated exposure
+H400 - Very toxic to aquatic life
+H410 - Very toxic to aquatic life with long lasting effects
+H411 - Toxic to aquatic life with long lasting effects
+H412 - Harmful to aquatic life with long lasting effects
+Legend
+TWA TWA (time-weighted average)
+STEL STEL (Short Term Exposure Limit)
+United Kingdom - BE Page 11 / 12
+SAFETY DATA SHEET
+____________________________________________________________________________________
+BOSTIK STIX A300 MULTI FLOOR Revision date 02-Sep-2021
+Supercedes Date: 15-Dec-2020 Revision Number 3
+Ceiling Ceiling Limit Value
+* Skin designation
+SVHC Substance(s) of Very High Concern
+PBT Persistent, Bioaccumulative, and Toxic (PBT) Chemicals
+vPvB Very Persistent and very Bioaccumulative (vPvB) Chemicals
+STOT RE Specific target organ toxicity - Repeated exposure
+STOT SE Specific target organ toxicity - Single exposure
+EWC European Waste Catalogue
+Key literature references and sources for data
+No information available
+Prepared By Product Safety & Regulatory Affairs
+Revision date 02-Sep-2021
+Indication of changes
+Revision note SDS sections updated: 2, 3.
+Training Advice No information available
+Further information No information available
+This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006
+Disclaimer
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the date of
+its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information relates only
+to the specific material designated and may not be valid for such material used in combination with any other materials or in
+any process, unless specified in the text.
+End of Safety Data Sheet
+United Kingdom - BE Page 12 / 12
