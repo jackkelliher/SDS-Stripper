@@ -1,0 +1,824 @@
+Spray Well Highway Linemarker Aerosol (All Colours)
+Damar Industries Limited Chemwatch Hazard Alert Code: 4
+Chemwatch: 46-8391
+Version No: 5.1
+Safety Data Sheet according to the Health and Safety at Work (Hazardous Substances) Regulations 2017
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+S.GHS.NZL.EN
+SECTION 1 Identification of the substance / mixture and of the company / undertaking
+Product Identifier
+Product name Spray Well Highway Linemarker Aerosol (All Colours)
+Chemical Name Not Applicable
+Synonyms Not Available
+Proper shipping name AEROSOLS
+Chemical formula Not Applicable
+Other means of
+identification Not Available
+Relevant identified uses of the substance or mixture and uses advised against
+Relevant identified uses
+Line/stripe marking paint.
+Application is by spray atomisation from a hand held aerosol pack
+Use according to manufacturer's directions.
+Details of the manufacturer or supplier of the safety data sheet
+Registered company name Damar Industries Limited
+Address 800 Te Ngae Road, Eastgate Park, Rotorua 3042 New Zealand
+Telephone +64 7 345 6007
+Fax +64 7 345 6019
+Website
+Email info@damarindustries.co.nz
+Emergency telephone number
+Association / Organisation CHEMCALL CHEMWATCH EMERGENCY RESPONSE (24/7)
+Emergency telephone
+number(s) 0800 243 622 +64 800 700 112
+Other emergency
+telephone number(s) 1800 127 406 (outside New Zealand) +61 3 9573 3188
+SECTION 2 Hazards identification
+Classification of the substance or mixture
+Classification [1] Aerosols, Hazard Category 1, Skin Corrosion/Irritation Category 2, Serious Eye Damage/Eye Irritation Category 2, Reproductive
+Toxicity Category 2, Specific Target Organ Toxicity - Repeated Exposure Category 2
+Legend:
+1. Classified by Chemwatch; 2. Classification drawn from CCID EPA NZ; 3. Classification drawn from Regulation (EU) No
+1272/2008 - Annex VI
+Determined by Chemwatch
+using GHS/HSNO criteria 2.1.2A, 6.3A, 6.4A, 6.8B, 6.9B
+Label elements
+Hazard pictogram(s)
+Signal word Danger
+www.damarindustries.com
+Page 1 continued...
+Hazard statement(s)
+H222+H229 Extremely flammable aerosol. Pressurized container: may burst if heated.
+H315 Causes skin irritation.
+H319 Causes serious eye irritation.
+H361 Suspected of damaging fertility or the unborn child.
+H373 May cause damage to organs through prolonged or repeated exposure.
+Precautionary statement(s) Prevention
+P201 Obtain special instructions before use.
+P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.
+P211 Do not spray on an open flame or other ignition source.
+P251 Do not pierce or burn, even after use.
+Precautionary statement(s) Response
+P308+P313 IF exposed or concerned: Get medical advice/ attention.
+P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+P314 Get medical advice/attention if you feel unwell.
+P337+P313 If eye irritation persists: Get medical advice/attention.
+Precautionary statement(s) Storage
+P405 Store locked up.
+P410+P412 Protect from sunlight. Do not expose to temperatures exceeding 50 °C/122 °F.
+Precautionary statement(s) Disposal
+P501 Dispose of contents/container to authorised hazardous or special waste collection point in accordance with any local regulation.
+SECTION 3 Composition / information on ingredients
+Substances
+See section below for composition of Mixtures
+Mixtures
+CAS No %[weight] Name
+108-88-3 1-10
+Legend: 1. Classified by Chemwatch; 2. Classification drawn from CCID EPA NZ; 3. Classification drawn from Regulation (EU) No
+1272/2008 - Annex VI; 4. Classification drawn from C&L; * EU IOELVs available
+SECTION 4 First aid measures
+Description of first aid measures
+Eye Contact
+If aerosols come in contact with the eyes:
+Immediately hold the eyelids apart and flush the eye with fresh running water.
+Ensure complete irrigation of the eye by keeping eyelids apart and away from eye and moving the eyelids by occasionally
+lifting the upper and lower lids.
+Seek medical attention without delay; if pain persists or recurs seek medical attention.
+Removal of contact lenses after an eye injury should only be undertaken by skilled personnel.
+Skin Contact
+If solids or aerosol mists are deposited upon the skin:
+Flush skin and hair with running water (and soap if available).
+Remove any adhering solids with industrial skin cleansing cream.
+DO NOT use solvents.
+Seek medical attention in the event of irritation.
+Inhalation
+If aerosols, fumes or combustion products are inhaled:
+Remove to fresh air.
+Lay patient down. Keep warm and rested.
+Prostheses such as false teeth, which may block airway, should be removed, where possible, prior to initiating first aid
+procedures.
+If breathing is shallow or has stopped, ensure clear airway and apply resuscitation, preferably with a demand valve
+resuscitator, bag-valve mask device, or pocket mask as trained. Perform CPR if necessary.
+Transport to hospital, or doctor.
+toluene
+Chemwatch: 46-8391
+Version No: 5.1
+Page 2 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Ingestion Not considered a normal route of entry.
+Indication of any immediate medical attention and special treatment needed
+Treat symptomatically.
+SECTION 5 Firefighting measures
+Extinguishing media
+SMALL FIRE:
+Water spray, dry chemical or CO2
+LARGE FIRE:
+Water spray or fog.
+Special hazards arising from the substrate or mixture
+Fire Incompatibility Avoid contamination with oxidising agents i.e. nitrates, oxidising acids, chlorine bleaches, pool chlorine etc. as ignition may
+result
+Advice for firefighters
+Fire Fighting
+Alert Fire Brigade and tell them location and nature of hazard.
+May be violently or explosively reactive.
+Wear breathing apparatus plus protective gloves.
+Prevent, by any means available, spillage from entering drains or water course.
+Fire/Explosion Hazard
+Liquid and vapour are highly flammable.
+Severe fire hazard when exposed to heat or flame.
+Vapour forms an explosive mixture with air.
+Severe explosion hazard, in the form of vapour, when exposed to flame or spark.
+Combustion products include:
+carbon monoxide (CO)
+carbon dioxide (CO2)
+other pyrolysis products typical of burning organic material.
+SECTION 6 Accidental release measures
+Personal precautions, protective equipment and emergency procedures
+See section 8
+Environmental precautions
+See section 12
+Methods and material for containment and cleaning up
+Minor Spills
+Clean up all spills immediately.
+Avoid breathing vapours and contact with skin and eyes.
+Wear protective clothing, impervious gloves and safety glasses.
+Shut off all possible sources of ignition and increase ventilation.
+Major Spills
+DO NOT exert excessive pressure on valve; DO NOTattempt to operate damaged valve.
+Clear area of personnel and move upwind.
+Alert Fire Brigade and tell them location and nature of hazard.
+May be violently or explosively reactive.
+Wear breathing apparatus plus protective gloves.
+Remove leaking cylinders to a safe place if possible.
+Release pressure under safe, controlled conditions by opening the valve.
+Personal Protective Equipment advice is contained in Section 8 of the SDS.
+SECTION 7 Handling and storage
+Precautions for safe handling
+Safe handling
+Avoid all personal contact, including inhalation.
+Wear protective clothing when risk of exposure occurs.
+Use in a well-ventilated area.
+Prevent concentration in hollows and sumps.
+Other information Keep dry to avoid corrosion of cans. Corrosion may result in container perforation and internal pressure may eject contents of
+can
+Store in original containers in approved flammable liquid storage area.
+DO NOT store in pits, depressions, basements or areas where vapours may be trapped.
+No smoking, naked lights, heat or ignition sources.
+Chemwatch: 46-8391
+Version No: 5.1
+Page 3 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Keep containers securely sealed.
+Conditions for safe storage, including any incompatibilities
+Suitable container
+Aerosol dispenser.
+Check that containers are clearly labelled.
+Storage incompatibility Avoid reaction with oxidising agents
+SECTION 8 Exposure controls / personal protection
+Control parameters
+Occupational Exposure Limits (OEL)
+INGREDIENT DATA
+Source Ingredient
+Material
+name
+TWA STEL Peak Notes
+New Zealand Workplace
+Exposure Standards (WES)
+toluene Toluene
+(Toluol)
+20 ppm / 75
+mg/m3
+377 mg/m3 /
+100 ppm
+Not
+Available
+(skin) - Skin absorption oto - Ototoxin (bio) -
+Exposure can also be estimated by biological
+monitoring
+Ingredient Original IDLH Revised IDLH
+toluene 500 ppm Not Available
+Exposure controls
+Appropriate engineering
+controls
+Engineering controls are used to remove a hazard or place a barrier between the worker and the hazard. Well-designed
+engineering controls can be highly effective in protecting workers and will typically be independent of worker interactions to
+provide this high level of protection.
+The basic types of engineering controls are:
+Process controls which involve changing the way a job activity or process is done to reduce the risk.
+Enclosure and/or isolation of emission source which keeps a selected hazard "physically" away from the worker and ventilation
+that strategically "adds" and "removes" air in the work environment.
+Individual protection
+measures, such as
+personal protective
+equipment
+Eye and face protection
+No special equipment for minor exposure i.e. when handling small quantities.
+OTHERWISE: For potentially moderate or heavy exposures:
+Safety glasses with side shields.
+NOTE: Contact lenses pose a special hazard; soft lenses may absorb irritants and ALL lenses concentrate them.
+Close fitting gas tight goggles
+DO NOT wear contact lenses.
+Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy
+document, describing the wearing of lens or restrictions on use, should be created for each workplace or task. This should
+include a review of lens absorption and adsorption for the class of chemicals in use and an account of injury experience.
+Medical and first-aid personnel should be trained in their removal and suitable equipment should be readily available.
+Safety glasses with side shields.
+Chemical goggles. [AS/NZS 1337.1, EN166 or national equivalent]
+Contact lenses may pose a special hazard; soft contact lenses may absorb and concentrate irritants. A written policy
+document, describing the wearing of lenses or restrictions on use, should be created for each workplace or task.
+Skin protection See Hand protection below
+Hands/feet protection
+Wear general protective gloves, eg. light weight rubber gloves.
+No special equipment needed when handling small quantities.
+OTHERWISE:
+For potentially moderate exposures:
+Wear general protective gloves, eg. light weight rubber gloves.
+For potentially heavy exposures:
+Wear chemical protective gloves, eg. PVC. and safety footwear.
+Body protection See Other protection below
+Other protection
+No special equipment needed when handling small quantities.
+OTHERWISE:
+Overalls.
+Skin cleansing cream.
+Eyewash unit.
+The clothing worn by process operators insulated from earth may develop static charges far higher (up to 100 times) than the
+minimum ignition energies for various flammable gas-air mixtures. This holds true for a wide range of clothing materials
+including cotton.
+Avoid dangerous levels of charge by ensuring a low resistivity of the surface material worn outermost.
+BRETHERICK: Handbook of Reactive Chemical Hazards.
+Chemwatch: 46-8391
+Version No: 5.1
+Page 4 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Recommended material(s)
+GLOVE SELECTION INDEX
+Glove selection is based on a modified presentation of the:
+"Forsberg Clothing Performance Index".
+The effect(s) of the following substance(s) are taken into account in the
+computer-generated selection:
+Spray Well Highway Linemarker Aerosol (All Colours)
+Material CPI
+PE/EVAL/PE A
+PVA A
+VITON A
+VITON/CHLOROBUTYL A
+TEFLON B
+BUTYL C
+CPE C
+NEOPRENE C
+NEOPRENE/NATURAL C
+NITRILE C
+NITRILE+PVC C
+PVC C
+SARANEX-23 C
+SARANEX-23 2-PLY C
+VITON/NEOPRENE C
+* CPI - Chemwatch Performance Index
+A: Best Selection
+B: Satisfactory; may degrade after 4 hours continuous immersion
+C: Poor to Dangerous Choice for other than short term immersion
+NOTE: As a series of factors will influence the actual performance of the glove,
+a final selection must be based on detailed observation. -
+* Where the glove is to be used on a short term, casual or infrequent basis,
+factors such as "feel" or convenience (e.g. disposability), may dictate a choice
+of gloves which might otherwise be unsuitable following long-term or frequent
+use. A qualified practitioner should be consulted.
+Ansell Glove Selection
+Glove — In order of recommendation
+AlphaTec 02-100
+AlphaTec® 38-612
+AlphaTec® 15-554
+AlphaTec® Solvex® 37-185
+AlphaTec® 58-008
+AlphaTec® 58-530B
+AlphaTec® 58-530W
+AlphaTec® Solvex® 37-675
+AlphaTec® 79-700
+AlphaTec® 53-001
+The suggested gloves for use should be confirmed with the glove supplier.
+Respiratory protection
+Type A Filter of sufficient capacity. (AS/NZS 1716 & 1715, EN 143:2000 &
+149:2001, ANSI Z88 or national equivalent)
+Where the concentration of gas/particulates in the breathing zone, approaches
+or exceeds the "Exposure Standard" (or ES), respiratory protection is required.
+Degree of protection varies with both face-piece and Class of filter; the nature
+of protection varies with Type of filter.
+Required Minimum
+Protection Factor
+Half-Face
+Respirator
+Full-Face
+Respirator
+Powered Air
+Respirator
+up to 10 x ES A-AUS -
+A-PAPR-AUS /
+Class 1
+up to 50 x ES -
+A-AUS / Class
+1
+-
+up to 100 x ES - A-2 A-PAPR-2 ^
+^ - Full-face
+A(All classes) = Organic vapours, B AUS or B1 = Acid gasses, B2 = Acid gas or
+hydrogen cyanide(HCN), B3 = Acid gas or hydrogen cyanide(HCN), E = Sulfur
+dioxide(SO2), G = Agricultural chemicals, K = Ammonia(NH3), Hg = Mercury,
+NO = Oxides of nitrogen, MB = Methyl bromide, AX = Low boiling point organic
+compounds(below 65 degC)
+Cartridge respirators should never be used for emergency ingress or in
+areas of unknown vapour concentrations or oxygen content.
+The wearer must be warned to leave the contaminated area immediately
+on detecting any odours through the respirator. The odour may indicate that
+the mask is not functioning properly, that the vapour concentration is too
+high, or that the mask is not properly fitted. Because of these limitations,
+only restricted use of cartridge respirators is considered appropriate.
+Cartridge performance is affected by humidity. Cartridges should be
+changed after 2 hr of continuous use unless it is determined that the
+humidity is less than 75%, in which case, cartridges can be used for 4 hr.
+Used cartridges should be discarded daily, regardless of the length of time
+used
+Generally not applicable.
+Aerosols, in common with most vapours/ mists, should never be used in
+confined spaces without adequate ventilation. Aerosols, containing agents
+designed to enhance or mask smell, have triggered allergic reactions in
+predisposed individuals.
+SECTION 9 Physical and chemical properties
+Information on basic physical and chemical properties
+Appearance
+Coloured flammable liquid with a solvent odour; not miscible with water.
+Supplied as an aerosol pack. Contents under PRESSURE. Contains highly flammable hydrocarbon propellant.
+Physical state Liquid
+Relative density (Water =
+1) 0.851
+Odour Not Available
+Partition coefficient noctanol / water Not Available
+Chemwatch: 46-8391
+Version No: 5.1
+Page 5 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Odour threshold Not Available Auto-ignition temperature
+(°C)
+Not Available
+pH (as supplied) Not Applicable Decomposition
+temperature (°C)
+Not Available
+Melting point / freezing
+point (°C)
+Not Available Viscosity (cSt) Not Available
+Initial boiling point and
+boiling range (°C)
+Not Available Molecular weight (g/mol) Not Applicable
+Flash point (°C) -81 Taste Not Available
+Evaporation rate Not Applicable Explosive properties Not Available
+Flammability HIGHLY FLAMMABLE. Oxidising properties Not Available
+Upper Explosive Limit (%) 10 Surface Tension (dyn/cm
+or mN/m)
+Not Available
+Lower Explosive Limit (%) 1 Volatile Component (%vol) 84.7 (VOC = 662 g/l)
+Vapour pressure (kPa) Not Available Gas group Not Available
+Solubility in water Immiscible pH as a solution (1%) Not Applicable
+Vapour density (Air = 1) Not Available VOC g/L Not Available
+Heat of Combustion (kJ/g) Not Available Ignition Distance (cm) Not Available
+Flame Height (cm) Not Available Flame Duration (s) Not Available
+Enclosed Space Ignition
+Time Equivalent (s/m3) Not Available
+Enclosed Space Ignition
+Deflagration Density
+(g/m3)
+Not Available
+SECTION 10 Stability and reactivity
+Reactivity See section 7
+Chemical stability
+Elevated temperatures.
+Presence of open flame.
+Product is considered stable.
+Hazardous polymerisation will not occur.
+Possibility of hazardous
+reactions
+See section 7
+Conditions to avoid See section 7
+Incompatible materials See section 7
+Hazardous decomposition
+products
+See section 5
+SECTION 11 Toxicological information
+Information on toxicological effects
+Inhaled
+Inhalation of aerosols (mists, fumes), generated by the material during the course of normal handling, may be damaging to the
+health of the individual.
+There is some evidence to suggest that the material can cause respiratory irritation in some persons. The body's response to
+such irritation can cause further lung damage.
+The acute toxicity of inhaled alkylbenzene is best described by central nervous system depression. These compounds may also
+act as general anaesthetics. Whole body symptoms of poisoning include light-headedness, nervousness, apprehension, a feeling
+of well-being, confusion, dizziness, drowsiness, ringing in the ears, blurred or double vision, vomiting and sensations of heat,
+cold or numbness, twitching, tremors, convulsions, unconsciousness, depression of breathing, and arrest. Heart stoppage may
+result from cardiovascular collapse.
+Inhalation of toxic gases may cause:
+Central Nervous System effects including depression, headache, confusion, dizziness, stupor, coma and seizures;
+respiratory: acute lung swellings, shortness of breath, wheezing, rapid breathing, other symptoms and respiratory arrest;
+heart: collapse, irregular heartbeats and cardiac arrest;
+gastrointestinal: irritation, ulcers, nausea and vomiting (may be bloody), and abdominal pain.
+WARNING:Intentional misuse by concentrating/inhaling contents may be lethal.
+Spray mist may produce discomfort
+Ingestion Not normally a hazard due to physical form of product.
+Considered an unlikely route of entry in commercial/industrial environments
+Skin Contact
+The liquid may be able to be mixed with fats or oils and may degrease the skin, producing a skin reaction described as nonallergic contact dermatitis. The material is unlikely to produce an irritant dermatitis as described in EC Directives.
+Spray mist may produce discomfort
+Open cuts, abraded or irritated skin should not be exposed to this material
+Eye
+Although the liquid is not thought to be an irritant (as classified by EC Directives), direct contact with the eye may produce
+transient discomfort characterised by tearing or conjunctival redness (as with windburn).
+Not considered to be a risk because of the extreme volatility of the gas.
+Chemwatch: 46-8391
+Version No: 5.1
+Page 6 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Legend: – Data either not available or does not fill the criteria for classification
+ – Data available to make classification
+Chronic
+Harmful: danger of serious damage to health by prolonged exposure through inhalation.
+This material can cause serious damage if one is exposed to it for long periods. It can be assumed that it contains a substance
+which can produce severe defects.
+Based on experience with animal studies, exposure to the material may result in toxic effects to the development of the foetus, at
+levels which do not cause significant toxic effects to the mother.
+There has been some concern that this material can cause cancer or mutations but there is not enough data to make an
+assessment.
+Substance accumulation, in the human body, may occur and may cause some concern following repeated or long-term
+occupational exposure.
+Main route of exposure to the gas in the workplace is by inhalation.
+Intentional abuse (glue sniffing) or occupational exposure to toluene can result in chronic habituation. Chronic abuse has caused
+inco-ordination, tremors of the extremeties (due to widespread cerebrum withering), headache, abnormal speech, temporary
+memory loss, convulsions, coma, drowsiness, reduced colour perception, blindness, nystagmus (rapid, involuntary eye
+movements), hearing loss leading to deafness and mild dementia.
+Spray Well Highway
+Linemarker Aerosol (All
+Colours)
+TOXICITY IRRITATION
+Not Available Not Available
+toluene
+TOXICITY IRRITATION
+Dermal (rabbit) LD50: 12124 mg/kg[2] Eye (Human): 300ppm
+Inhalation (Rat) LC50: >13350 ppm4h[2] Eye (Rodent - rabbit): 0.1mL
+Oral (Rat) LD50: 636 mg/kg[2] Eye (Rodent - rabbit): 0.1mL - Severe
+Eye (Rodent - rabbit): 100mg/30S - Mild
+Eye (Rodent - rabbit): 2mg/24H - Severe
+Eye (Rodent - rabbit): 870ug - Mild
+Eye: adverse effect observed (irritating)[1]
+Skin (Mammal - pig): 250uL/24H - Mild
+Skin (Rodent - rabbit): 20mg/24H - Moderate
+Skin (Rodent - rabbit): 435mg - Mild
+Skin (Rodent - rabbit): 500mg - Moderate
+Skin: adverse effect observed (irritating)[1]
+Skin: no adverse effect observed (not irritating)[1]
+Legend: 1. Value obtained from Europe ECHA Registered Substances - Acute toxicity 2. Value obtained from manufacturer's SDS.
+Unless otherwise specified data extracted from RTECS - Register of Toxic Effect of chemical Substances
+TOLUENE
+The material may cause skin irritation after prolonged or repeated exposure and may produce on contact skin redness, swelling,
+the production of vesicles, scaling and thickening of the skin.
+For toluene:
+Acute toxicity: Humans exposed to high levels of toluene for short periods of time experience adverse central nervous system
+effects ranging from headaches to intoxication, convulsions, narcosis (sleepiness) and death. When inhaled or swallowed,
+toluene can cause severe central nervous system depression, and in large doses has a narcotic effect. 60mL has caused death.
+Death of heart muscle fibres, liver swelling, congestion and bleeding of the lungs and kidney injury were all found on autopsy.
+Exposure to inhalation at a concentration of 600 parts per million for 8 hours resulted in the same and more serious symptoms
+including euphoria (a feeling of well-being), dilated pupils, convulsions and nausea.
+Acute Toxicity Carcinogenicity
+Skin Irritation/Corrosion Reproductivity
+Serious Eye
+Damage/Irritation
+STOT - Single Exposure
+Respiratory or Skin
+sensitisation
+STOT - Repeated Exposure
+Mutagenicity Aspiration Hazard
+SECTION 12 Ecological information
+Toxicity
+Spray Well Highway
+Linemarker Aerosol (All
+Colours)
+Endpoint Test Duration (hr) Species Value Source
+Not Not Available Not Available Not Not
+Chemwatch: 46-8391
+Version No: 5.1
+Page 7 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Available Available Available
+toluene
+Endpoint Test Duration (hr) Species Value Source
+EC50 96h Algae or other aquatic plants >376.71mg/L 4
+EC50 72h Algae or other aquatic plants 12.5mg/L 4
+NOEC(ECx) 168h Crustacea 0.74mg/l 2
+EC50 48h Crustacea 3.78mg/L 5
+LC50 96h Fish 5-35mg/l 4
+Legend: Extracted from 1. IUCLID Toxicity Data 2. Europe ECHA Registered Substances - Ecotoxicological Information - Aquatic Toxicity
+4. US EPA, Ecotox database - Aquatic Toxicity Data 5. ECETOC Aquatic Hazard Assessment Data 6. NITE (Japan) -
+Bioconcentration Data 7. METI (Japan) - Bioconcentration Data 8. Vendor Data
+For Aromatic Substances Series:
+Environmental Fate: Large, molecularly complex polycyclic aromatic hydrocarbons, or PAHs, are persistent in the environment longer than smaller PAHs.
+Atmospheric Fate: PAHs are 'semi-volatile substances" which can move between the atmosphere and the Earth's surface in repeated, temperature-driven cycles
+of deposition and volatilization. Terrestrial Fate: BTEX compounds have the potential to move through soil and contaminate ground water, and their vapors are
+highly flammable and explosive.
+Ecotoxicity - Within an aromatic series, acute toxicity increases with increasing alkyl substitution on the aromatic nucleus.
+For Toluene:
+log Kow : 2.1-3;
+log Koc : 1.12-2.85;
+Koc : 37-260;
+log Kom : 1.39-2.89;
+Half-life (hr) air : 2.4-104;
+Half-life (hr) H2O surface water : 5.55-528;
+Half-life (hr) H2O ground : 168-2628;
+Half-life (hr) soil : <48-240;
+Henry's Pa m3 /mol : 518-694;
+Henry's atm m3 /mol : 5.94;
+E-03BOD 5 0.86-2.12, 5%COD - 0.7-2.52,21-27%;
+ThOD - 3.13 ; BCF - 1.67-380;
+log BCF - 0.22-3.28.
+Atmospheric Fate: The majority of toluene evaporates to the atmosphere from the water and soil. The main degradation pathway for toluene in the atmosphere is
+reaction with photochemically produced hydroxyl radicals. The estimated atmospheric half life for toluene is about 13 hours.
+DO NOT discharge into sewer or waterways.
+Persistence and degradability
+Ingredient Persistence: Water/Soil Persistence: Air
+toluene LOW (Half-life = 28 days) LOW (Half-life = 4.33 days)
+Bioaccumulative potential
+Ingredient Bioaccumulation
+toluene LOW (BCF = 90)
+Mobility in soil
+Ingredient Mobility
+toluene LOW (Log KOC = 268)
+SECTION 13 Disposal considerations
+Waste treatment methods
+Product / Packaging
+disposal
+Legislation addressing waste disposal requirements may differ by country, state and/ or territory. Each user must refer to laws
+operating in their area. In some areas, certain wastes must be tracked.
+A Hierarchy of Controls seems to be common - the user should investigate:
+Reduction
+Reuse
+Recycling
+Disposal (if all else fails)
+This material may be recycled if unused, or if it has not been contaminated so as to make it unsuitable for its intended use.
+DO NOT allow wash water from cleaning or process equipment to enter drains.
+It may be necessary to collect all wash water for treatment before disposal.
+In all cases disposal to sewer may be subject to local laws and regulations and these should be considered first.
+Where in doubt contact the responsible authority.
+Consult State Land Waste Management Authority for disposal.
+Discharge contents of damaged aerosol cans at an approved site.
+Chemwatch: 46-8391
+Version No: 5.1
+Page 8 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+14.1. UN number or ID
+number
+14.2. UN proper shipping
+name
+14.3. Transport hazard
+class(es)
+14.4. Packing group
+14.5. Environmental
+hazard
+14.6. Special precautions
+for user
+14.1. UN number
+14.2. UN proper shipping
+name
+14.3. Transport hazard
+class(es)
+14.4. Packing group
+14.5. Environmental
+hazard
+14.6. Special precautions
+for user
+14.1. UN number
+Allow small quantities to evaporate.
+DO NOT incinerate or puncture aerosol cans.
+Ensure that the hazardous substance is disposed in accordance with the Hazardous Substances (Disposal) Notice 2017
+Disposal Requirements
+Packages that have been in direct contact with the hazardous substance must be only disposed if the hazardous substance was appropriately removed and
+cleaned out from the package. The package must be disposed according to the manufacturer's directions taking into account the material it is made of. Packages
+which hazardous content have been appropriately treated and removed may be recycled.
+The hazardous substance must only be disposed if it has been treated by a method that changed the characteristics or composition of the substance and it is no
+longer hazardous.
+SECTION 14 Transport information
+Labels Required
+Marine Pollutant NO
+HAZCHEM Not Applicable
+Land transport (UN)
+1950
+AEROSOLS
+Class 2.1
+Subsidiary Hazard Not Applicable
+Not Applicable
+Not Applicable
+Special provisions 63; 190; 277; 327; 344; 381
+Limited quantity 1000ml
+Air transport (ICAO-IATA / DGR)
+1950
+Aerosols, flammable (engine starting fluid)
+ICAO/IATA Class 2.1
+ICAO / IATA Subsidiary Hazard Not Applicable
+ERG Code 10L
+Not Applicable
+Not Applicable
+Special provisions A1 A145 A167 A802
+Cargo Only Packing Instructions 203
+Cargo Only Maximum Qty / Pack 150 kg
+Passenger and Cargo Packing Instructions Forbidden
+Passenger and Cargo Maximum Qty / Pack Forbidden
+Passenger and Cargo Limited Quantity Packing Instructions Forbidden
+Passenger and Cargo Limited Maximum Qty / Pack Forbidden
+Sea transport (IMDG-Code / GGVSee)
+1950
+Chemwatch: 46-8391
+Version No: 5.1
+Page 9 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+14.2. UN proper shipping
+name
+14.3. Transport hazard
+class(es)
+14.4. Packing group
+14.5 Environmental hazard
+14.6. Special precautions
+for user
+AEROSOLS
+IMDG Class 2.1
+IMDG Subsidiary Hazard Not Applicable
+Not Applicable
+Not Applicable
+EMS Number F-D , S-U
+Special provisions 63 190 277 327 344 381 959
+Limited Quantities 1000 ml
+14.7. Maritime transport in bulk according to IMO instruments
+14.7.1. Transport in bulk according to Annex II of MARPOL and the IBC code
+Not Applicable
+14.7.2. Transport in bulk in accordance with MARPOL Annex V and the IMSBC Code
+Product name Group
+toluene Not Available
+14.7.3. Transport in bulk in accordance with the IGC Code
+Product name Ship Type
+toluene Not Available
+SECTION 15 Regulatory information
+Safety, health and environmental regulations / legislation specific for the substance or mixture
+This substance is to be managed using the conditions specified in an applicable Group Standard
+HSR Number Group Standard
+HSR002515 Aerosols Flammable Group Standard 2020
+HSR002552 Cosmetic Products Group Standard 2020
+Please refer to Section 8 of the SDS for any applicable tolerable exposure limit or Section 12 for environmental exposure limit.
+toluene is found on the following regulatory lists
+Chemical Footprint Project - Chemicals of High Concern List
+International Agency for Research on Cancer (IARC) - Agents Classified by the IARC Monographs - Not Classified as Carcinogenic
+New Zealand Approved Hazardous Substances with controls
+New Zealand Hazardous Substances and New Organisms (HSNO) Act - Classification of Chemicals
+New Zealand Hazardous Substances and New Organisms (HSNO) Act - Classification of Chemicals - Classification Data
+New Zealand Inventory of Chemicals (NZIoC)
+New Zealand Workplace Exposure Standards (WES)
+Additional Regulatory Information
+Not Applicable
+Hazardous Substance Location
+Subject to the Health and Safety at Work (Hazardous Substances) Regulations 2017.
+Hazard Class Quantity (Closed Containers) Quantity (Open Containers)
+2.1.2A 3 000 L (aggregate water capacity) 3 000 L (aggregate water capacity)
+Certified Handler
+Subject to Part 4 of the Health and Safety at Work (Hazardous Substances) Regulations 2017.
+Class of substance Quantities
+Not Applicable Not Applicable
+Refer Group Standards for further information
+Chemwatch: 46-8391
+Version No: 5.1
+Page 10 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+Maximum quantities of certain hazardous substances permitted on passenger service vehicles
+Subject to Regulation 13.14 of the Health and Safety at Work (Hazardous Substances) Regulations 2017.
+Hazard Class
+Gas (aggregate water capacity in
+mL)
+Liquid
+(L)
+Solid
+(kg)
+Maximum quantity per package for each
+classification
+2.1.2A 1L (aggregate water capacity)
+Tracking Requirements
+Not Applicable
+National Inventory Status
+National Inventory Status
+Australia - AIIC / Australia
+Non-Industrial Use Yes
+Canada - DSL Yes
+Canada - NDSL No (toluene)
+China - IECSC Yes
+Europe - EINEC / ELINCS /
+NLP Yes
+Japan - ENCS Yes
+Korea - KECI Yes
+New Zealand - NZIoC Yes
+Philippines - PICCS Yes
+USA - TSCA All chemical substances in this product have been designated as TSCA Inventory ‘Active'
+Taiwan - TCSI Yes
+Mexico - INSQ Yes
+Vietnam - NCI Yes
+Russia - FBEPH Yes
+Legend:
+Yes = All CAS declared ingredients are on the inventory
+No = One or more of the CAS listed ingredients are not on the inventory. These ingredients may be exempt or will require
+registration.
+SECTION 16 Other information
+Revision Date 10/03/2023
+Initial Date 24/02/2015
+SDS Version Summary
+Version Date of Update Sections Updated
+4.1 01/11/2019 One-off system update. NOTE: This may or may not change the GHS classification
+5.1 10/03/2023 Classification change due to full database hazard calculation/update.
+Other information
+Classification of the preparation and its individual components has drawn on official and authoritative sources as well as independent review by the Chemwatch
+Classification committee using available literature references.
+The SDS is a Hazard Communication tool and should be used to assist in the Risk Assessment. Many factors determine whether the reported Hazards are Risks
+in the workplace or other settings. Risks may be determined by reference to Exposures Scenarios. Scale of use, frequency of use and current or available
+engineering controls must be considered.
+Definitions and abbreviations
+PC－TWA: Permissible Concentration-Time Weighted Average
+PC－STEL: Permissible Concentration-Short Term Exposure Limit
+IARC: International Agency for Research on Cancer
+ACGIH: American Conference of Governmental Industrial Hygienists
+STEL: Short Term Exposure Limit
+TEEL: Temporary Emergency Exposure Limit。
+IDLH: Immediately Dangerous to Life or Health Concentrations
+ES: Exposure Standard
+OSF: Odour Safety Factor
+NOAEL: No Observed Adverse Effect Level
+LOAEL: Lowest Observed Adverse Effect Level
+Chemwatch: 46-8391
+Version No: 5.1
+Page 11 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+Continued...
+TLV: Threshold Limit Value
+LOD: Limit Of Detection
+OTV: Odour Threshold Value
+BCF: BioConcentration Factors
+BEI: Biological Exposure Index
+DNEL: Derived No-Effect Level
+PNEC: Predicted no-effect concentration
+MARPOL: International Convention for the Prevention of Pollution from Ships
+IMSBC: International Maritime Solid Bulk Cargoes Code
+IGC: International Gas Carrier Code
+IBC: International Bulk Chemical Code
+AIIC: Australian Inventory of Industrial Chemicals
+DSL: Domestic Substances List
+NDSL: Non-Domestic Substances List
+IECSC: Inventory of Existing Chemical Substance in China
+EINECS: European INventory of Existing Commercial chemical Substances
+ELINCS: European List of Notified Chemical Substances
+NLP: No-Longer Polymers
+ENCS: Existing and New Chemical Substances Inventory
+KECI: Korea Existing Chemicals Inventory
+NZIoC: New Zealand Inventory of Chemicals
+PICCS: Philippine Inventory of Chemicals and Chemical Substances
+TSCA: Toxic Substances Control Act
+TCSI: Taiwan Chemical Substance Inventory
+INSQ: Inventario Nacional de Sustancias Químicas
+NCI: National Chemical Inventory
+FBEPH: Russian Register of Potentially Hazardous Chemical and Biological Substances
+This document is copyright.
+Apart from any fair dealing for the purposes of private study, research, review or criticism, as permitted under the Copyright Act, no part may be reproduced by any
+process without written permission from CHEMWATCH.
+TEL (+61 3) 9572 4700.
+Chemwatch: 46-8391
+Version No: 5.1
+Page 12 of 12
+Spray Well Highway Linemarker Aerosol (All Colours)
+Issue Date: 10/03/2023
+Print Date: 20/01/2025
+end of SDS

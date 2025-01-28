@@ -1,0 +1,32 @@
+H222! Extremely flammable aerosol.
+H229! Pressurized container: may burst if heated.
+H319! Causes serious eye irritation.
+H336! May cause drowsiness or dizziness.
+
+
+P102! Keep out of reach of children.
+P103! Read carefully and follow all instructions.
+P210! Keep away from heat/sparks/open flames/hot surfaces. No smoking.
+P211! Do not spray on an open flame or other ignition sources.
+P251! Do not pierce or burn, even after use.
+P261! Avoid breathing dust, fume, gas, mist, vapours or spray.
+P264! Wash hands, face and all exposed skin thoroughly after handling.
+P271! Use only outdoors or in a well-ventilated area.
+P280! Wear protective gloves/protective clothing including eye/face protection. 
+
+
+P101! If medical advice is needed, have product container or label at hand.
+P304+P340! IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+P305+P351+P338! IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+P312! Call a POISON CENTER/doctor if you feel unwell.
+P337+P313! If eye irritation persists: Get medical advice/attention.
+
+
+P403+P233! Store in a well-ventilated place. Keep container tightly closed.
+P405! Store locked up.
+P410+P412! Protect from sunlight. Do not expose to temperatures exceeding 50 °C/122 °F.
+
+
+P501! Dispose of contents/container in accordance with local, regional, national and international regulations.
+
+
